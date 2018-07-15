@@ -2,7 +2,7 @@
   "name": "node-express-mongodb",
   "version": "1.0.0",
   "description": "server api to save and retrieve data from mongodb using node and express.",
-  "main": "createAdmin.js",
+  "main": "welcome.js",
   "dependencies": {
     "express": "^4.16.3",
     "mongodb": "^3.0.10"
